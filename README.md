@@ -124,6 +124,7 @@ The same exists for ranged loops
 - Ranged loops with conditions
 - Event Emitter as each step results a value. It comes in handy when logging.
 - publish to npm
+- Write REAL unit tests
 
 ## I found a bug ##
 

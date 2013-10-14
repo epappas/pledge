@@ -121,9 +121,9 @@ The same exists for ranged loops
 
 ## TODO ##
 
--- Ranged loops with conditions
--- Event Emitter as each step results a value. It comes in handy when logging.
--- publish to npm
+- Ranged loops with conditions
+- Event Emitter as each step results a value. It comes in handy when logging.
+- publish to npm
 
 ## I found a bug ##
 

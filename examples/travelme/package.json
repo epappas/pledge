@@ -1,0 +1,23 @@
+{
+	"name"           : "travelme",
+	"description"    : "travelme server side reactor",
+	"author"         : "epappas@evalonlabs.com",
+	"version"        : "0.1.0",
+	"dependencies"   : {
+		"express"            : "*",
+		"redis"              : "*",
+		"socket.io"          : "*",
+		"modquery"           : "*",
+		"memcached"          : "*",
+		"setimmediate"       : "*"
+	},
+	"devDependencies": {
+		"vows"  : "0.5.x",
+		"mocha" : "*",
+		"should": "*"
+	},
+	"engine"         : "node >= 0.10.5",
+	"scripts"        : {
+		"start": "node server.js"
+	}
+}
